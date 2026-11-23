@@ -1,4 +1,4 @@
-The purpose of this obsidian vault to create a record of all previous material I have learned and understand the path to further my studies. The vault is not limited to just coursework, but includes any personal projects, or self study I have done. 
+The purpose of this Obsidian vault to create a record of all previous material I have learned and understand the path to further my studies. The vault is not limited to just coursework, but includes any personal projects, or self study I have done. 
 
 When I was in highschool, it was difficult to figure out what order I needed to take certain classes or learn certain things, but I hope this vault will be a helpful resource for other to gauge what they need to prioritize. 
 ## Structure
